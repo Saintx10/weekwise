@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "updated": "2026-11-17",
+  "groups": [
+    {
+      "dept": "Computer Science",
+      "level": "300",
+      "sem": "1",
+      "packs": [
+        {
+          "id": "csc301",
+          "v": 1,
+          "code": "CSC 301",
+          "title": "Data Structures",
+          "file": "packs/csc301.json"
+        },
+        {
+          "id": "csc303",
+          "v": 1,
+          "code": "CSC 303",
+          "title": "Introduction to Data Management I",
+          "file": "packs/csc303.json"
+        }
+      ]
+    }
+  ]
+}
